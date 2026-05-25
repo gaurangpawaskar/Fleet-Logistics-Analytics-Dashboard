@@ -105,4 +105,4 @@ Geographical analysis of shipment operations and regional logistics KPIs.
 
 ## Dashboard Preview
 
-(Add your dashboard screenshots here)
+(https://github.com/gaurangpawaskar/Fleet-Logistics-Analytics-Dashboard/blob/main/Dashboard%20Page%201_Snapshot.jpg)
